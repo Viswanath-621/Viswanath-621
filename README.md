@@ -1,6 +1,3 @@
-# [![Viswanath Bodapati header](https://github.com/Viswanath-621/Viswanath-621/blob/main/oie_transparent%20(7).png)](https://linktr.ee/Viswanath._.Bodapati)
-
-
 <p align='right'>
 <a href="https://www.linkedin.com/in/viswanath-bodapati-56944714a/"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 <a href="https://twitter.com/Vishwa_621"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
