@@ -80,14 +80,14 @@ I write about things I am familiar with, things that trip up folks that I mentor
   </td>
   
   <td>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjib-kumar-das&theme=tokyonight" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viswanath-621&theme=tokyonight" />
   </td>
   
   <td> 
    
    <br>
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjib-kumar-das)](https://github.com/sanjib-kumar-das/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viswanath-621)](https://github.com/sanjib-kumar-das/github-readme-stats)
    
   </td>
   
