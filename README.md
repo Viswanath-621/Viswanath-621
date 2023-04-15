@@ -6,8 +6,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Viswanath-621&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Viswanath-621)](viswanath-621.github.io/About-Me/) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Viswanath-621&theme=juicyfresh)](viswanath-621.github.io/About-Me/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Viswanath-621)](viswanath-621.github.io/About-Me/)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Viswanath-621&theme=juicyfresh)](viswanath-621.github.io/About-Me/) -->
 
 Hey there 👋,
 
