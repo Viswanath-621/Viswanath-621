@@ -11,7 +11,7 @@
 
 Hey there 👋,
 
-<h4>I am Viswanath Bodapati currently pursuing bachelor's in Information Technology at VRSEC. I am skilled in CPP/C, html and Python. I have worked on few projects based on data science, multi-threaded applications as well as front-end development using the latest web technologies. I am a specialist in developing customer service-oriented applications. In the past, I have worked on projects utilizing Pyttsx3, pyautogui, smtplib. In addition, I have extensive experience with production support. In addition to my skills in coding, I am skilled in conducting technical analysis as well as assisting members in project management. In the past, I have ideas based on projects in the domain of mining , manufacturing , education. </h4>&nbsp;
+<h4>I am Viswanath Bodapati currently pursuing bachelor's in Information Technology at VRSEC. I am skilled in CPP/C, html and Python. I have worked on few projects based on data science, multi-threaded applications as well as front-end development using the latest web technologies. I am a specialist in developing customer service-oriented applications. In the past, I have worked on projects utilizing Pyttsx3, pyautogui, smtplib. In addition, I have extensive experience with production support. In addition to my skills in  coding, I am skilled in conducting technical analysis as well as assisting members in project management. In the past, I have ideas based on projects in the domain of mining , manufacturing , education. </h4>&nbsp;
 
 ---
 <p>
