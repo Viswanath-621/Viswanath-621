@@ -12,6 +12,7 @@
 Hey there 👋, 
 
 I’m Viswanath Bodapati, a passionate technologist and problem solver currently working as a Software Engineer 1 at Deloitte. I graduated in Information Technology from VRSEC with a CGPA of 8.2 and was selected through campus placements, turning my dedication into a successful career start. Over the past year at Deloitte, I basically work in full stack tech and have been actively involved in designing and developing enterprise-grade application, working extensively on the Angular framework for front-end development and ASP.NET Web API for back-end services. My journey has sharpened my expertise in real-time communication using SignalR (WebSockets), SQL query optimization and analysis, and building solutions that seamlessly integrate with automation platforms like UiPath. Beyond coding, I contribute to knowledge management by documenting processes on Azure Wiki and designing system architecture diagrams with PlantUML. With every project, I strive to blend clean code, scalable architecture, and user-centric design, aiming to create impactful software that bridges innovation with efficiency.
+
 ---
 <p>
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
